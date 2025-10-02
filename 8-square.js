@@ -26,7 +26,7 @@ else {
     for (let i = 0; i < square; i++){
         let input = "";
         for (let j = 0; j < square; j++){
-            input = input + "x";
+            input = input + "X";
         }
     console.log(input);
     }
